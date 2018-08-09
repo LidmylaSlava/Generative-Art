@@ -1,1 +1,1 @@
-# Nodebox-OpenGL-Creativity
+# Nodebox-OpenGL Creativity
