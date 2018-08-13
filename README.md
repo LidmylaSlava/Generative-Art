@@ -1,1 +1,1 @@
-# Nodebox-OpenGL Creativity
+# Generative Art
